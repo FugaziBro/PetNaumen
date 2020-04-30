@@ -1,0 +1,10 @@
+.allure/
+.gradle/
+.idea/
+build/
+gradle/
+
+!/.idea/runConfigurations
+
+out/
+target/
